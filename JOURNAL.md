@@ -2,7 +2,7 @@
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 4.5
+Total hours so far: 12.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -47,5 +47,12 @@ A small and thus hopefully portable 3D printer that allows printing high quality
 - Fiberglass core GT2 belts for XY mechanism, routed in extrusion if possible
 - Fiberglass or steel core GT2 belts for z-axis
 
-## Day 1 (Mar 14)
+### Print head
+- Bowden extruder with PTFE Bowden tubes
+- 45° mounted hot end for improved space efficiency or Positron 90° hot end
+
+## Day 1 (Mar 14) 4.5h
 I did general research, found a lot of useful guides and videos, and outlined the basic design idea. I also made a few sketches in my notebook to get a better idea of how everything should come together.
+
+## Day 2 (Mar 15) 8h
+I did a lot more research, made a few more sketches, and tore down my 3D printers print head to get a better understanding of it. I also took a look at the [Positron LT](https://github.com/Audiotronix/Positron_LT) 3D model (a fork of the [Positron V3](https://github.com/Positron3D/Positron)). After a lot of consideration, I think I am going to go for a Bowden extruder setup and a 45° mounted hot end, but if the budget allows I want to get a Positron 90° bent hot end, but those are over 70$.
