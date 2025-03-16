@@ -2,7 +2,7 @@
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 12.5
+Total hours so far: 21
 - [x] I have a 3D printer
 
 ## Idea
@@ -56,3 +56,6 @@ I did general research, found a lot of useful guides and videos, and outlined th
 
 ## Day 2 (Mar 15) 8h
 I did a lot more research, made a few more sketches, and tore down my 3D printers print head to get a better understanding of it. I also took a look at the [Positron LT](https://github.com/Audiotronix/Positron_LT) 3D model (a fork of the [Positron V3](https://github.com/Positron3D/Positron)). After a lot of consideration, I think I am going to go for a Bowden extruder setup and a 45° mounted hot end, but if the budget allows I want to get a Positron 90° bent hot end, but those are over 70$.
+
+## Day 3 (Mar 16) 8.5h
+Today I did even more research on a whole bunch of areas, but mainly the tool head. After considering designing my own Proton-like 90° bent nozzle, I figured that it would be too complex, expensive and time consuming, but I'll leave room for future upgrades in the design. I have most of the printer mapped out in sketches now, and I think I can start the CAD phase of this project soon. For the hotend, I plan to use a Deltaprintr Mini, even though it's fairly expensive and it's maximum operating temperature is only 270°, but I have a few modifications in mind to improve that. The hotend will be mounted at a 45° angle for better space efficiency, like I previously mentioned.
