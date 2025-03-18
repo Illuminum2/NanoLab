@@ -2,7 +2,7 @@
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 22.5
+Total hours so far: 27.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -62,3 +62,6 @@ Today I did even more research on a whole bunch of areas, but mainly the tool he
 
 ## Day 4 (Mar 17) 1.5h
 I couldn't get much done today because we had 10 hours of school, but I found a few models of the hotend and the linear rails I want to use, and also started modeling the hotend mount. I also decided to attempt to use berd air cooling to try to keep my tool head as small as possible.
+
+## Day 5 (Mar 18) 5h
+I lost a few of my sketches because my brother managed to spill water over them, but it gave me the opportunity to reconsider a few design decisions I had made, and I decided to simplify everything. My toolhead should only carry the hot end + cooling fan as well as ducts for the part cooling, for which the air will be supplied by a tube(berd air cooling). I experimented a bit with a part cooling duct shape similar to some momentum curtain designs, but I have yet to simulate if my design actually has any advantages.
