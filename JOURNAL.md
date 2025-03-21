@@ -2,7 +2,7 @@
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 29.5
+Total hours so far: 31.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -71,3 +71,6 @@ I had 10 hous of school, and also have a math exam in two days, so I couldn't wo
 
 ## Day 7 (Mar 20) 1h
 I did a bit of research on electronics and what main bord would be best for my use case in between the math studying.
+
+## Day 8 (Mar 21) 2h
+I had another 10 hour school day, but I did some research into steppet motors and also did some work on my CAD designs.
