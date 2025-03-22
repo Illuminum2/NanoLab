@@ -2,7 +2,7 @@
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 31.5
+Total hours so far: 33.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -74,3 +74,6 @@ I did a bit of research on electronics and what main bord would be best for my u
 
 ## Day 8 (Mar 21) 2h
 I had another 10 hour school day, but I did some research into steppet motors and also did some work on my CAD designs.
+
+## Day 9 (Mar 22) 2h
+So I was only able to start working on this after 9pm, so I didn't get as much done as I would have liked, but I looked at some more control boards, and I also fixed a weird scaling issue and remodeled part of my tool head because I realized that the model of the hotend I had used was slightly off.
