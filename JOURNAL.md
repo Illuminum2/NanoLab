@@ -2,7 +2,7 @@
 
 Made by: @Iluminum2  
 Repo link: [https://github.com/Illuminum2/NanoLab](https://github.com/Illuminum2/NanoLab)  
-Total hours so far: 33.5
+Total hours so far: 38.5
 - [x] I have a 3D printer
 
 ## Idea
@@ -77,3 +77,6 @@ I had another 10 hour school day, but I did some research into steppet motors an
 
 ## Day 9 (Mar 22) 2h
 So I was only able to start working on this after 9pm, so I didn't get as much done as I would have liked, but I looked at some more control boards, and I also fixed a weird scaling issue and remodeled part of my tool head because I realized that the model of the hotend I had used was slightly off.
+
+## Day 10 (Mar 23) 5h
+Today I got a lot of work done, mainly in 3D modeling, I also did some more sketches of components I need. Also I had to redesign my tool head yet again, for now I haven't added part cooling, but because I am going for berd air cooling I should be able to simply add that by modifying my toolhead cover. I also noticed that I probably have to file off 0.5-1 mm of a part of the nozzle, because it will be mounted at 45°, and could otherwise interfere with the layers.
